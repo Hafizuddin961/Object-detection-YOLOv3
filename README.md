@@ -1,5 +1,7 @@
 # Object-detection-YOLOv3<br/>
 
+This project run in Google Colab <br/>
+
 Forked from : https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial <br/>
 
 yolov3 pretrained coco 80 classes dataset weights: https://pjreddie.com/media/files/yolov3.weights <br/>
