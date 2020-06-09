@@ -14,6 +14,6 @@ My custom object detection weights to detect burger, ice cream, pancake and pizz
 
 My related file to this project (personal used) : https://drive.google.com/open?id=1QMSvvsHuXWXcAE-K0zehyWRY0KXgiyKi
 
-**Reference**:
+# Reference
 
 YOLOv3 custom dataset preparation : https://www.youtube.com/watch?v=_4A9inxGqRM
