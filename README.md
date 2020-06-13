@@ -14,6 +14,14 @@ My custom object detection weights to detect burger, ice cream, pancake and pizz
 
 My related file to this project (personal used) : https://drive.google.com/open?id=1QMSvvsHuXWXcAE-K0zehyWRY0KXgiyKi
 
+
+# Result example
+This detection using coco dataset weights:<br/>
+![alt text](https://github.com/Hafizuddin961/Object-detection-YOLOv3/blob/master/result/example.png)
+![alt text](https://github.com/Hafizuddin961/Object-detection-YOLOv3/blob/master/result/gmp_group.png)
+![alt text](https://github.com/Hafizuddin961/Object-detection-YOLOv3/blob/master/result/melaka_medal.png)<br/>
+
+
 # Reference
 
 YOLOv3 custom dataset preparation : https://www.youtube.com/watch?v=_4A9inxGqRM
